@@ -2,5 +2,4 @@
 
 env.component = "cart"
 
-
-ci ()
+ci()
